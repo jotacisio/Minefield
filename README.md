@@ -1,4 +1,3 @@
-# minefield_cmd
 Um clássico do mundo dos games feito de modo muito simples, em console application C#.
 O programa está bem completo, mas quem desejar adicionar melhorias fique a vontade.
 
