@@ -1,5 +1,5 @@
-+
-+![Logo](minefield_title.png)
+[Logo](minefield_title.png)
+
 Um clássico do mundo dos games feito de modo muito simples, em C# console application.
 O programa está bem completo, mas quem desejar adicionar melhorias fique a vontade.
 
